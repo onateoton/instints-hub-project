@@ -1,0 +1,20 @@
+What Is version control 
+
+ Version control is a system that tracks and manages changes to files over time, enabling collaboration and providing a history of modifications. It's like a time-travel tool for your work, helping teams work together and preserving different versions of files.
+
+
+What is git
+
+Git is a tool that helps you save different versions of your work, like a series of snapshots. It's like a super organized photo album for your files that allows you to switch between versions, collaborate with others, and go back in time if you need to fix something.
+
+step-by-step of committing a project to a GitHub repository:
+
+1.*Upload: Take your work and put it on GitHub.
+2. Change: Make updates to your work.
+3. Save: Tell Git to remember these updates (commit).
+4Share: Send the updates to GitHub (push).
+5. Collaborate: If others are involved, they can check and suggest changes.
+6. Merge: If everyone agrees, combine the changes into the main project.
+7. Stay Updated: Regularly get the latest changes from GitHub (pull).
+
+ 
